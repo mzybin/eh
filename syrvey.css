@@ -1,5 +1,12 @@
-span.survey-question-question {
+body{
+ font-family: "Tahoma", Tahoma, sans-serif;
+font-weight: normal;
+font-style: normal;
+font-size: 14px;
+line-height: 1;
+color: #333333;
+}
+.survey-question-question {
 font-size: 20px !important;
 color: #50327c;
-
 }
