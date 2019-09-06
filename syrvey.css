@@ -3,10 +3,33 @@ body{
 font-weight: normal;
 font-style: normal;
 font-size: 14px;
-line-height: 1;
+line-height: 1.4;
 color: #333333;
+max-width: 850px;
 }
-.survey-question-question {
-font-size: 20px !important;
+#question1919 .survey-question-question {
+font-size: 22px !important;
 color: #50327c;
+}
+#question1920 .survey-question-question {
+font-size: 22px !important;
+font-weight: bold;
+
+}
+#question1921 .survey-question-question {
+font-size: 22px !important;
+font-weight: bold;
+
+}#question1922 .survey-question-question {
+font-size: 22px !important;
+font-weight: bold;
+
+}#question1923 .survey-question-question {
+font-size: 22px !important;
+font-weight: bold;
+
+}
+.survey-question-textarea-answer #question-1919 {
+
+display: none;
 }
